@@ -260,7 +260,7 @@ return array (
   'Edit Company Info' => '',
   'Edit Deal Media' => '',
   'Edit Deal Review' => '',
-  'Edit Location' => '',
+  'Edit Location' => 'Editar Localização',
   'Edit Price Option' => '',
   'Edit Profile Field' => '',
   'Edit Static Page' => '',
